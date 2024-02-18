@@ -1,0 +1,8 @@
+Initialize the project with pixi:
+
+1.pixi init mlops_task1
+
+2. pixi add python scikit-learn scipy matplotlib optuna wandb
+
+3. pixi run python mlops_task.py
+
